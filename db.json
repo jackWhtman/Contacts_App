@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Naveen Jain K",
+      "email": "naveen9nj@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jack WhitMman",
+      "email": "jack.whitman@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Fireblades",
+      "email": "fireblades.jain@gmail.com"
+    }
+  ]
+}
